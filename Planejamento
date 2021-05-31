@@ -1,0 +1,9 @@
+A ideia inicial para esse ciclo era a implementação de:
+1 - implementar a logica de programação do painel de interações, que o jogador irá ultilizar para acertar as ordens das respostas.
+2 - implementar a logica de programação de interação do personagem com o painel de interações.
+3 - implementar a logica de programação de verificação de respostas certas e erradas no painel de interações.
+4 - implementar a logica de programação que abrirá uma porta para o proximo desafio.
+Essa implementação foi realizada com sucesso.
+Para o proximo ciclo, planeja-se:
+1 - modelar o mapa mais uma vez de modo que fique mais bonito aos olhos.
+2 - fazer a logica para outro painel da proxima fase.
